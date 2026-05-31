@@ -7,14 +7,43 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+```md
+---
+name: Feature request
+about: Dien een verzoek in voor een nieuwe functionaliteit of verbetering binnen MDTO
+title: "[Feature]: "
+labels: enhancement
+assignees: ""
+---
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Samenvatting
+Beschrijf kort de gewenste wijziging of uitbreiding.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Aanleiding
+Waarom is deze wijziging nodig?  
+Welke behoefte of welk knelpunt lost dit op?
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Gewenste oplossing
+Beschrijf zo concreet mogelijk wat je wilt toevoegen of aanpassen.
+
+## Impact op MDTO
+Welke onderdelen van MDTO worden geraakt?
+
+- [ ] Metadatamodel
+- [ ] Begrippen / definities
+- [ ] Documentatie
+- [ ] Voorbeelden
+- [ ] Anders, namelijk: __________
+
+## Toelichting / context
+Voeg hier extra context toe, zoals voorbeelden, verwijzingen of eerdere discussies.
+
+## Gewenste prioriteit
+
+- [ ] Laag
+- [ ] Middel
+- [ ] Hoog
+
+## Aanvullende opmerkingen
+Ruimte voor overige opmerkingen.
+```
